@@ -1,1 +1,3 @@
-const React = import "react";
+i:const React = import "react";
+
+app.connect();
