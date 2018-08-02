@@ -1,0 +1,2 @@
+# netauto
+Learn remote Git
